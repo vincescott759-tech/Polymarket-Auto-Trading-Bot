@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
+private-logs/
+approved-configs/
+proposals/
+__pycache__/
+.DS_Store
+
